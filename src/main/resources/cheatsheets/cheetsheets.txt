@@ -1,0 +1,19 @@
+## Store all kind of cheatsheets here and retrieve at lightning speed via command line.
+## Access cheatsheet by using typing short name in square brackets on command line.
+
+
+VIM_CS_START [vimcs]
+
+- . -> repeat an action
+
+VIM_CS_END
+
+----------------
+
+MYSQL_CS_START [mysqlcs]
+
+- . -> repeat an action
+
+MYSQL_CS_END
+
+
